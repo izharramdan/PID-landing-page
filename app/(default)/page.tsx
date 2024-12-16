@@ -14,7 +14,6 @@ export default function Home() {
     <>
       <Hero />
       <FeaturesPlanet />
-
       <BusinessCategories />
       <LargeTestimonial />
       <Cta />

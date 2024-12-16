@@ -12,10 +12,10 @@ export default function Header() {
           </div>
 
           {/* Desktop sign in links */}
-          {/* <ul className="flex flex-1 items-center justify-end gap-3">
-            <li>
+          <ul className="flex flex-1 items-center justify-end gap-3">
+            {/* <li>
               <Link
-                href="/signin"
+                href="/login"
                 className="btn-sm bg-white text-gray-800 shadow hover:bg-gray-50"
               >
                 Login
@@ -28,8 +28,16 @@ export default function Header() {
               >
                 Register
               </Link>
+            </li> */}
+            <li>
+              <Link
+                href="/privacypolicy"
+                className="btn-sm bg-gray-800 text-gray-200 shadow hover:bg-gray-900"
+              >
+                Privacy & Policy
+              </Link>
             </li>
-          </ul> */}
+          </ul>
         </div>
       </div>
     </header>
