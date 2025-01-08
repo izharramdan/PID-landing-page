@@ -34,15 +34,15 @@ export default function LargeTestimonial() {
               <em className="italic text-gray-500">
                 drive innovation and empower businesses
               </em>
-              , Our mission is to provide cutting-edge IT solutions that not
+              . Our mission is to provide cutting-edge IT solutions that not
               only meet today's challenges but also anticipate the needs of
               tomorrow.”
             </p>
             <div className="text-sm font-medium text-gray-500">
-              <span className="text-gray-700">Mary Sullivan</span>{" "}
+              <span className="text-gray-700">Ahmad Hadi Setiawan</span>{" "}
               <span className="text-gray-400">/</span>{" "}
               <a className="text-blue-500" href="#0">
-                Software Engineer
+                Chief Executive Officer
               </a>
             </div>
           </div>
